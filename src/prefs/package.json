@@ -1,8 +1,0 @@
-{
-  "name": "~prefs",
-  "type": "module",
-  "private": true,
-  "devDependencies": {
-    "@girs/gtksource-5": "latest"
-  }
-}

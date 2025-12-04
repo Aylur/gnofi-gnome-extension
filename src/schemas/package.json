@@ -1,8 +1,0 @@
-{
-  "name": "~schemas",
-  "type": "module",
-  "private": true,
-  "exports": {
-    ".": "./index.ts"
-  }
-}
